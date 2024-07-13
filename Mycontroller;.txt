@@ -8,7 +8,7 @@ public class Mycontroller {
 @RequestMapping("/")
 public String homepage() {
 	return "home";	
-}
+}{{{{
 @RequestMapping("/about")
 public String aboutpage() {
 	return "about";
